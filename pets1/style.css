@@ -1,0 +1,15 @@
+
+.contents{
+  padding: 1em;
+}
+.background{
+  background-color: #6e6a96;
+  margin: auto;
+  width: 90%
+}
+img{
+  border-radius: 1.5em;
+}
+.jumbotron{
+  border-radius: 1.5em;
+}

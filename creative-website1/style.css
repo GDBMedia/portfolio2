@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-color: #606060;
+  font-size: 20px;
+}
+
+ul{
+  border-style: outset;
+  border-color: #00c;
+  border-width: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+ol{
+  border-style: inset;
+  border-width: 10px;
+  border-color: #00C;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+#container {
+  background-color: #ffffff;
+  padding: 20px 0px 20px 0px;
+  width:85%;
+  margin: auto;
+  border-radius: 15px;
+}
+h1{
+  color: #ffffff;
+  font-size: 4.5vmin;
+}
+h2{
+  font-size: 2.7vmin;
+}
+li{
+  font-size: 1.8vmin;
+}
