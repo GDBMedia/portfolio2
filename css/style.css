@@ -1,0 +1,28 @@
+#dropdown{
+  padding: .8em;
+}
+body{
+  padding-top: 7em;
+  padding-bottom: 7em;
+}
+.jumbotron{
+  text-align: center;
+}
+#myprojects{
+  text-align: center;
+
+}
+#myprojects .jumbotron{
+  margin: .1em;
+  padding: .1em;
+  background-color: white;
+}
+.col-md-4{
+  padding: 1em;
+}
+.col-md-4 h2{
+  text-align: center;
+}
+.container{
+  max-width: 1400px;
+}
