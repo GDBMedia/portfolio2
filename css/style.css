@@ -2,7 +2,7 @@
   padding: .8em;
 }
 body{
-  padding-top: 7em;
+  padding-top: 2em;
   padding-bottom: 7em;
 }
 .jumbotron{
@@ -24,5 +24,17 @@ body{
   text-align: center;
 }
 .container{
-  max-width: 1400px;
+  max-width: 1500px;
+}
+#portfolio .jumbotron{
+  width: 100%;
+}
+.navbar-brand{
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 25px;
+}
+.collapse ul{
+  padding-top: 1.1em;
+  font-size: 18px;
 }
