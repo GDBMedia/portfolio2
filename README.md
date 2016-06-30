@@ -21,14 +21,14 @@ _Something don't look Quite as good as I wanted them to on the extra small forma
 
 ## Support and contact details
 
-_{Email me at: laker77@gmail.com}_
+_Email me at: laker77@gmail.com_
 
 ## Technologies Used
 
-_{I used mostly HTML but there is CSS  and the website is made using bootstrap framework}_
+_I used mostly HTML but there is CSS  and the website is made using bootstrap framework_
 
 ### License
 
-*{MIT License}*
+*MIT License*
 
 Copyright (c) 2015 **_GDB Media, Inc._**
